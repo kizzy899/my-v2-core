@@ -21,4 +21,4 @@ The following assumes the use of `node@>=10`.
 
 ## Run Tests
 
-`npm test`
+`yarn test`
